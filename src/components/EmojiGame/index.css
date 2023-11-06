@@ -1,0 +1,12 @@
+/* Write your code here. */
+.mainDiv {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  font-family: 'Roboto';
+  margin: 5vh;
+}
+.emojisDiv {
+  display: flex;
+  margin: 5vh;
+  align-items: center;
+  justify-content: space-evenly;
+}

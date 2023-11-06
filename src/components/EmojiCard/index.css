@@ -1,0 +1,20 @@
+/* Write your code here. */
+.emojisDiv {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-self: center;
+  padding: 4vh;
+}
+.emojiDiv {
+  background-color: #ffffff33;
+  margin: 5px;
+  padding: 4vh;
+  border-radius: 10px;
+  border: 2px solid #ffffff30;
+  cursor: pointer;
+  list-style-type: none;
+}
+.img {
+  height: 8vh;
+}

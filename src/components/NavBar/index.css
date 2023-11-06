@@ -1,0 +1,23 @@
+/* Write your code here. */
+.navDiv {
+  display: flex;
+  background-color: #ffffff33;
+  justify-content: space-around;
+  padding: 1vh;
+  align-items: center;
+}
+* {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+img {
+  height: 5vh;
+}
+.score {
+  padding-left: 4vh;
+}
